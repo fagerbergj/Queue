@@ -1,0 +1,1607 @@
+Station 0 is Initlized....
+
+Passenger 20	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 23	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 25	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 27	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 28	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 29	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 33	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 36	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 43	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 55	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 58	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 59	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 66	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 73	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 75	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 79	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 80	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 84	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 96	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 101	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 107	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 109	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 110	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 111	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 114	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 117	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 120	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 124	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 127	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 132	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 136	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 140	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 147	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 156	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 162	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 164	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 165	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 169	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 174	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 185	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 194	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 195	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 202	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 205	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 209	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 212	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 224	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 227	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 228	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 235	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 236	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 243	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 245	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 247	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 251	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 254	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 263	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 269	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 273	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 277	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 278	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 282	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 284	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 293	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 298	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 299	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 302	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 311	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 314	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 318	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 322	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 324	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 325	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 328	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 332	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 337	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 338	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 345	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 357	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 358	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 362	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 402	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 406	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 414	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 415	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 427	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 428	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 432	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 436	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 443	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 444	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 445	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 453	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 465	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 471	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 473	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 479	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 483	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 485	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 486	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 489	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 490	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 499	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 502	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 512	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 513	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 519	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 524	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 526	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 533	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 542	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 543	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 545	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 546	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 550	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 551	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 558	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 566	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 577	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 589	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 590	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 591	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 606	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 629	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 632	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 634	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 651	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 653	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 663	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 664	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 666	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 676	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 680	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 682	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 684	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 687	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 691	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 694	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 704	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 713	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 725	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 726	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 728	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 730	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 733	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 740	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 741	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 745	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 750	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 751	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 759	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 760	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 761	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 762	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 774	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 775	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 785	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 786	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 787	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 790	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 792	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 797	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 807	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 815	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 818	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 823	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 832	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 835	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 839	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 844	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 855	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 856	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 860	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 861	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 867	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 873	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 877	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 878	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 880	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 888	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 895	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 918	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 921	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 927	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 935	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 940	Start: STATION 0	Destination: STATION 3 was added to platform going the positive direction 
+
+Passenger 950	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 952	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 956	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+Passenger 963	Start: STATION 0	Destination: STATION 1 was added to platform going the positive direction 
+
+Passenger 965	Start: STATION 0	Destination: STATION 2 was added to platform going the positive direction 
+
+Passenger 999	Start: STATION 0	Destination: STATION 4 was added to platform going the positive direction 
+
+TRAIN ARRIVED AT TICK: 1
+People are now entering the train...
+Passenger 20	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 23	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 25	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 27	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 28	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 29	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 33	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 36	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 43	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 55	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 58	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 59	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 66	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 73	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 75	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 79	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 80	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 84	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 96	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 101	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 107	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 109	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 110	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 111	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 114	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 117	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 120	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 124	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 127	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 132	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 136	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 140	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 147	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 156	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 162	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 164	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 165	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 169	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 174	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 185	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 194	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 195	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 202	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 205	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 209	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 212	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 224	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 227	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 228	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 235	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 236	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 243	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 245	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 247	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 251	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 254	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 263	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 269	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 273	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 277	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 278	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 282	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 284	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 293	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 298	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 299	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 302	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 311	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 314	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 318	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 322	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 324	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 325	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 328	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 332	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 337	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 338	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 345	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 357	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 358	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 362	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 402	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 406	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 414	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 415	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 427	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 428	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 432	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 436	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 443	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 444	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 445	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 453	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 465	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 471	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 473	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 479	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 483	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 485	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 486	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 489	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 490	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 499	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 502	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 512	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 513	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 519	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 524	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 526	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 533	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 542	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 543	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 545	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 546	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 550	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 551	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 558	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 566	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 577	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 589	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 590	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 591	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 606	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 629	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 632	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 634	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 651	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 653	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 663	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 664	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 666	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 676	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 680	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 682	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 684	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 687	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 691	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 694	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 704	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 713	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 725	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 726	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 728	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 730	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 733	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 740	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 741	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 745	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 750	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 751	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 759	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 760	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 761	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 762	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 774	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 775	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 785	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 786	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 787	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 790	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 792	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 797	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 807	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 815	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 818	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 823	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 832	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 835	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 839	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 844	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 855	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 856	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 860	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 861	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 867	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 873	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 877	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 878	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 880	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 888	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 895	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 918	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 921	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 927	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 935	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 940	Start: STATION 0	Destination: STATION 3 was passed to train TRAIN 1
+
+Passenger 950	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 952	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 956	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Passenger 963	Start: STATION 0	Destination: STATION 1 was passed to train TRAIN 1
+
+Passenger 965	Start: STATION 0	Destination: STATION 2 was passed to train TRAIN 1
+
+Passenger 999	Start: STATION 0	Destination: STATION 4 was passed to train TRAIN 1
+
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 9
+People are now exiting the train...
+Passenger Passenger 11	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 49	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 89	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 102	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 141	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 153	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 166	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 196	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 223	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 265	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 316	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 342	Start: STATION 3	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 5	Start: STATION 2	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 40	Start: STATION 2	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 78	Start: STATION 2	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 106	Start: STATION 2	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 139	Start: STATION 2	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 208	Start: STATION 2	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 0	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 22	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 41	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 57	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 103	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 150	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 170	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 216	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 334	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 371	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 403	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 441	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 484	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 498	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+Passenger Passenger 507	Start: STATION 1	Destination: STATION 0 arrived at tick 9
+TRAIN ARRIVED AT TICK: 9
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 17
+People are now exiting the train...
+Passenger Passenger 16	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 92	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 176	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 312	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 68	Start: STATION 2	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 134	Start: STATION 2	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 214	Start: STATION 2	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 38	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 67	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 155	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 233	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 380	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 467	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 503	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 366	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 370	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 425	Start: STATION 3	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 226	Start: STATION 2	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 279	Start: STATION 2	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 581	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 585	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 594	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+Passenger Passenger 609	Start: STATION 1	Destination: STATION 0 arrived at tick 17
+TRAIN ARRIVED AT TICK: 17
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 25
+People are now exiting the train...
+Passenger Passenger 54	Start: STATION 3	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 215	Start: STATION 3	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 82	Start: STATION 2	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 21	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 135	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 364	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 497	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 429	Start: STATION 3	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 557	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 588	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 7	Start: STATION 4	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 617	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+Passenger Passenger 655	Start: STATION 1	Destination: STATION 0 arrived at tick 25
+TRAIN ARRIVED AT TICK: 25
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 33
+People are now exiting the train...
+Passenger Passenger 142	Start: STATION 3	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 159	Start: STATION 2	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 197	Start: STATION 1	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 229	Start: STATION 2	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 598	Start: STATION 1	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 638	Start: STATION 1	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 437	Start: STATION 3	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 308	Start: STATION 2	Destination: STATION 0 arrived at tick 33
+Passenger Passenger 685	Start: STATION 1	Destination: STATION 0 arrived at tick 33
+TRAIN ARRIVED AT TICK: 33
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 41
+People are now exiting the train...
+Passenger Passenger 9	Start: STATION 2	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 435	Start: STATION 1	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 582	Start: STATION 1	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 439	Start: STATION 3	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 709	Start: STATION 1	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 50	Start: STATION 4	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 331	Start: STATION 2	Destination: STATION 0 arrived at tick 41
+Passenger Passenger 753	Start: STATION 1	Destination: STATION 0 arrived at tick 41
+TRAIN ARRIVED AT TICK: 41
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 49
+People are now exiting the train...
+Passenger Passenger 48	Start: STATION 1	Destination: STATION 0 arrived at tick 49
+Passenger Passenger 309	Start: STATION 2	Destination: STATION 0 arrived at tick 49
+Passenger Passenger 764	Start: STATION 1	Destination: STATION 0 arrived at tick 49
+Passenger Passenger 83	Start: STATION 4	Destination: STATION 0 arrived at tick 49
+Passenger Passenger 93	Start: STATION 4	Destination: STATION 0 arrived at tick 49
+Passenger Passenger 396	Start: STATION 2	Destination: STATION 0 arrived at tick 49
+Passenger Passenger 789	Start: STATION 1	Destination: STATION 0 arrived at tick 49
+TRAIN ARRIVED AT TICK: 49
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 57
+People are now exiting the train...
+Passenger Passenger 85	Start: STATION 4	Destination: STATION 0 arrived at tick 57
+Passenger Passenger 772	Start: STATION 1	Destination: STATION 0 arrived at tick 57
+Passenger Passenger 115	Start: STATION 4	Destination: STATION 0 arrived at tick 57
+Passenger Passenger 419	Start: STATION 2	Destination: STATION 0 arrived at tick 57
+Passenger Passenger 849	Start: STATION 1	Destination: STATION 0 arrived at tick 57
+Passenger Passenger 869	Start: STATION 1	Destination: STATION 0 arrived at tick 57
+TRAIN ARRIVED AT TICK: 57
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 65
+People are now exiting the train...
+Passenger Passenger 359	Start: STATION 2	Destination: STATION 0 arrived at tick 65
+Passenger Passenger 119	Start: STATION 4	Destination: STATION 0 arrived at tick 65
+Passenger Passenger 863	Start: STATION 1	Destination: STATION 0 arrived at tick 65
+Passenger Passenger 157	Start: STATION 4	Destination: STATION 0 arrived at tick 65
+Passenger Passenger 510	Start: STATION 2	Destination: STATION 0 arrived at tick 65
+Passenger Passenger 899	Start: STATION 1	Destination: STATION 0 arrived at tick 65
+TRAIN ARRIVED AT TICK: 65
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 73
+People are now exiting the train...
+Passenger Passenger 841	Start: STATION 1	Destination: STATION 0 arrived at tick 73
+Passenger Passenger 890	Start: STATION 1	Destination: STATION 0 arrived at tick 73
+Passenger Passenger 894	Start: STATION 1	Destination: STATION 0 arrived at tick 73
+Passenger Passenger 231	Start: STATION 4	Destination: STATION 0 arrived at tick 73
+Passenger Passenger 525	Start: STATION 3	Destination: STATION 0 arrived at tick 73
+Passenger Passenger 902	Start: STATION 1	Destination: STATION 0 arrived at tick 73
+Passenger Passenger 929	Start: STATION 1	Destination: STATION 0 arrived at tick 73
+TRAIN ARRIVED AT TICK: 73
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 81
+People are now exiting the train...
+Passenger Passenger 423	Start: STATION 2	Destination: STATION 0 arrived at tick 81
+Passenger Passenger 189	Start: STATION 4	Destination: STATION 0 arrived at tick 81
+Passenger Passenger 530	Start: STATION 2	Destination: STATION 0 arrived at tick 81
+Passenger Passenger 253	Start: STATION 4	Destination: STATION 0 arrived at tick 81
+Passenger Passenger 266	Start: STATION 4	Destination: STATION 0 arrived at tick 81
+Passenger Passenger 958	Start: STATION 1	Destination: STATION 0 arrived at tick 81
+Passenger Passenger 978	Start: STATION 1	Destination: STATION 0 arrived at tick 81
+TRAIN ARRIVED AT TICK: 81
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 89
+People are now exiting the train...
+Passenger Passenger 187	Start: STATION 4	Destination: STATION 0 arrived at tick 89
+Passenger Passenger 926	Start: STATION 1	Destination: STATION 0 arrived at tick 89
+Passenger Passenger 969	Start: STATION 1	Destination: STATION 0 arrived at tick 89
+Passenger Passenger 341	Start: STATION 4	Destination: STATION 0 arrived at tick 89
+Passenger Passenger 572	Start: STATION 2	Destination: STATION 0 arrived at tick 89
+Passenger Passenger 595	Start: STATION 2	Destination: STATION 0 arrived at tick 89
+TRAIN ARRIVED AT TICK: 89
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 97
+People are now exiting the train...
+Passenger Passenger 234	Start: STATION 4	Destination: STATION 0 arrived at tick 97
+Passenger Passenger 997	Start: STATION 1	Destination: STATION 0 arrived at tick 97
+Passenger Passenger 584	Start: STATION 2	Destination: STATION 0 arrived at tick 97
+Passenger Passenger 384	Start: STATION 4	Destination: STATION 0 arrived at tick 97
+Passenger Passenger 576	Start: STATION 3	Destination: STATION 0 arrived at tick 97
+TRAIN ARRIVED AT TICK: 97
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 105
+People are now exiting the train...
+Passenger Passenger 256	Start: STATION 4	Destination: STATION 0 arrived at tick 105
+Passenger Passenger 361	Start: STATION 4	Destination: STATION 0 arrived at tick 105
+Passenger Passenger 596	Start: STATION 2	Destination: STATION 0 arrived at tick 105
+Passenger Passenger 434	Start: STATION 4	Destination: STATION 0 arrived at tick 105
+Passenger Passenger 463	Start: STATION 4	Destination: STATION 0 arrived at tick 105
+Passenger Passenger 635	Start: STATION 2	Destination: STATION 0 arrived at tick 105
+TRAIN ARRIVED AT TICK: 105
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 113
+People are now exiting the train...
+Passenger Passenger 352	Start: STATION 4	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 648	Start: STATION 2	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 487	Start: STATION 4	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 500	Start: STATION 4	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 521	Start: STATION 4	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 614	Start: STATION 3	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 649	Start: STATION 2	Destination: STATION 0 arrived at tick 113
+Passenger Passenger 665	Start: STATION 2	Destination: STATION 0 arrived at tick 113
+TRAIN ARRIVED AT TICK: 113
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 121
+People are now exiting the train...
+Passenger Passenger 386	Start: STATION 4	Destination: STATION 0 arrived at tick 121
+Passenger Passenger 508	Start: STATION 4	Destination: STATION 0 arrived at tick 121
+Passenger Passenger 661	Start: STATION 2	Destination: STATION 0 arrived at tick 121
+Passenger Passenger 567	Start: STATION 4	Destination: STATION 0 arrived at tick 121
+Passenger Passenger 639	Start: STATION 3	Destination: STATION 0 arrived at tick 121
+Passenger Passenger 693	Start: STATION 2	Destination: STATION 0 arrived at tick 121
+TRAIN ARRIVED AT TICK: 121
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 129
+People are now exiting the train...
+Passenger Passenger 468	Start: STATION 4	Destination: STATION 0 arrived at tick 129
+Passenger Passenger 540	Start: STATION 4	Destination: STATION 0 arrived at tick 129
+Passenger Passenger 611	Start: STATION 4	Destination: STATION 0 arrived at tick 129
+Passenger Passenger 652	Start: STATION 4	Destination: STATION 0 arrived at tick 129
+Passenger Passenger 645	Start: STATION 3	Destination: STATION 0 arrived at tick 129
+Passenger Passenger 738	Start: STATION 2	Destination: STATION 0 arrived at tick 129
+Passenger Passenger 756	Start: STATION 2	Destination: STATION 0 arrived at tick 129
+TRAIN ARRIVED AT TICK: 129
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 137
+People are now exiting the train...
+Passenger Passenger 619	Start: STATION 3	Destination: STATION 0 arrived at tick 137
+Passenger Passenger 670	Start: STATION 4	Destination: STATION 0 arrived at tick 137
+Passenger Passenger 746	Start: STATION 2	Destination: STATION 0 arrived at tick 137
+Passenger Passenger 703	Start: STATION 4	Destination: STATION 0 arrived at tick 137
+Passenger Passenger 732	Start: STATION 4	Destination: STATION 0 arrived at tick 137
+Passenger Passenger 656	Start: STATION 3	Destination: STATION 0 arrived at tick 137
+Passenger Passenger 779	Start: STATION 2	Destination: STATION 0 arrived at tick 137
+TRAIN ARRIVED AT TICK: 137
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 145
+People are now exiting the train...
+Passenger Passenger 575	Start: STATION 4	Destination: STATION 0 arrived at tick 145
+Passenger Passenger 743	Start: STATION 4	Destination: STATION 0 arrived at tick 145
+Passenger Passenger 795	Start: STATION 4	Destination: STATION 0 arrived at tick 145
+Passenger Passenger 706	Start: STATION 3	Destination: STATION 0 arrived at tick 145
+Passenger Passenger 879	Start: STATION 2	Destination: STATION 0 arrived at tick 145
+TRAIN ARRIVED AT TICK: 145
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 153
+People are now exiting the train...
+Passenger Passenger 647	Start: STATION 3	Destination: STATION 0 arrived at tick 153
+Passenger Passenger 843	Start: STATION 2	Destination: STATION 0 arrived at tick 153
+Passenger Passenger 900	Start: STATION 4	Destination: STATION 0 arrived at tick 153
+Passenger Passenger 928	Start: STATION 4	Destination: STATION 0 arrived at tick 153
+Passenger Passenger 964	Start: STATION 4	Destination: STATION 0 arrived at tick 153
+Passenger Passenger 885	Start: STATION 2	Destination: STATION 0 arrived at tick 153
+Passenger Passenger 905	Start: STATION 2	Destination: STATION 0 arrived at tick 153
+TRAIN ARRIVED AT TICK: 153
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 161
+People are now exiting the train...
+Passenger Passenger 782	Start: STATION 2	Destination: STATION 0 arrived at tick 161
+Passenger Passenger 960	Start: STATION 4	Destination: STATION 0 arrived at tick 161
+Passenger Passenger 892	Start: STATION 2	Destination: STATION 0 arrived at tick 161
+Passenger Passenger 993	Start: STATION 4	Destination: STATION 0 arrived at tick 161
+Passenger Passenger 773	Start: STATION 3	Destination: STATION 0 arrived at tick 161
+Passenger Passenger 780	Start: STATION 3	Destination: STATION 0 arrived at tick 161
+Passenger Passenger 803	Start: STATION 3	Destination: STATION 0 arrived at tick 161
+TRAIN ARRIVED AT TICK: 161
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 169
+People are now exiting the train...
+Passenger Passenger 904	Start: STATION 4	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 991	Start: STATION 4	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 777	Start: STATION 3	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 806	Start: STATION 3	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 834	Start: STATION 3	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 854	Start: STATION 3	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 933	Start: STATION 3	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 971	Start: STATION 3	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 916	Start: STATION 2	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 943	Start: STATION 2	Destination: STATION 0 arrived at tick 169
+Passenger Passenger 966	Start: STATION 2	Destination: STATION 0 arrived at tick 169
+TRAIN ARRIVED AT TICK: 169
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 177
+People are now exiting the train...
+Passenger Passenger 723	Start: STATION 3	Destination: STATION 0 arrived at tick 177
+Passenger Passenger 946	Start: STATION 3	Destination: STATION 0 arrived at tick 177
+Passenger Passenger 941	Start: STATION 2	Destination: STATION 0 arrived at tick 177
+Passenger Passenger 986	Start: STATION 3	Destination: STATION 0 arrived at tick 177
+Passenger Passenger 973	Start: STATION 2	Destination: STATION 0 arrived at tick 177
+Passenger Passenger 976	Start: STATION 2	Destination: STATION 0 arrived at tick 177
+TRAIN ARRIVED AT TICK: 177
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 185
+People are now exiting the train...
+Passenger Passenger 784	Start: STATION 3	Destination: STATION 0 arrived at tick 185
+Passenger Passenger 948	Start: STATION 2	Destination: STATION 0 arrived at tick 185
+Passenger Passenger 975	Start: STATION 2	Destination: STATION 0 arrived at tick 185
+TRAIN ARRIVED AT TICK: 185
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 193
+People are now exiting the train...
+Passenger Passenger 914	Start: STATION 2	Destination: STATION 0 arrived at tick 193
+TRAIN ARRIVED AT TICK: 193
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 201
+People are now exiting the train...
+Passenger Passenger 972	Start: STATION 2	Destination: STATION 0 arrived at tick 201
+TRAIN ARRIVED AT TICK: 201
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 209
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 217
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 225
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 233
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 241
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 249
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 257
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 265
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 273
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 281
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 289
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 297
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 305
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 313
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 321
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 329
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 337
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 345
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 353
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 361
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 369
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 377
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 385
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 393
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 401
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 409
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 417
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 425
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 433
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 441
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 449
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 457
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 465
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 473
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 481
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 489
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 497
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 505
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 513
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 521
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 529
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 537
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 545
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 553
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 561
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 569
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 577
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 585
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 593
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 601
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 609
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 617
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 625
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 633
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 641
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 649
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 657
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 665
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 673
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 681
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 689
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 697
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 705
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 713
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 721
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 729
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 737
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 745
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 753
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 761
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 769
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 777
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 785
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 793
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 801
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 809
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 817
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 825
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 833
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 841
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 849
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 857
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 865
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 873
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 881
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 889
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 897
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 905
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 913
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 921
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 929
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 937
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 945
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 953
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 961
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 969
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 977
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 985
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 993
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1001
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1009
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1017
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1025
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1033
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1041
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1049
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1057
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1065
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1073
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1081
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1089
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1097
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1105
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1113
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1121
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1129
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1137
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1145
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1153
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1161
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1169
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1177
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1185
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1193
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1201
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1209
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1217
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1225
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1233
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1241
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1249
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1257
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1265
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1273
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1281
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1289
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1297
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1305
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1313
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1321
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1329
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1337
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1345
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1353
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1361
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1369
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1377
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1385
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1393
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1401
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1409
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1417
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1425
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1433
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1441
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1449
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1457
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1465
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1473
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1481
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1489
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1497
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1505
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1513
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1521
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1529
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1537
+People are now entering the train...
+Train is now leaving the station...
+TRAIN ARRIVED AT TICK: 1545
+People are now entering the train...
+Train is now leaving the station...
